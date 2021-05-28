@@ -1,0 +1,5 @@
+The file(s) in this folder were downloaded from freesound.org and were created by user jeckkech (see https://freesound.org/people/jeckkech/ for details).
+
+The file(s) are licensed under the Creative Commons 0 License.
+
+File names that end in "_Modified" were modified afterwards by dtsudo.

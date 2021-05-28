@@ -1,0 +1,5 @@
+The file(s) in this folder were downloaded from freesound.org and were created by user jalastram (see https://freesound.org/people/jalastram/ for details).
+
+The file(s) are licensed under the Creative Commons Attribution 3.0 Unported license (CC BY 3.0).
+
+File names that end in "_Modified" were modified afterwards by dtsudo.
